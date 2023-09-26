@@ -3,4 +3,4 @@ The repository that contains all assignment and Mini project of Machine Learning
 
 Assignments 
 
-### [ Assignemnt 1 ]()
+### [ Assignment 1 - Uber ride price prediction]()
