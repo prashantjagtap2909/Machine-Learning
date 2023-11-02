@@ -4,4 +4,4 @@ The repository that contains all assignment and Mini project of Machine Learning
 ## Assignments 
 
 ### [ Assignment 1 - Uber ride price prediction](https://github.com/prashantjagtap2909/Machine-Learning/blob/main/Assignments/Uber%20ride%20price%20prediction.ipynb)
-### [Assignment 2 - Neural network based classifier]()
+### [Assignment 2 ]()
