@@ -6,3 +6,4 @@ The repository that contains all assignment of Machine Learning.
 ### [ Assignment 1 - Uber ride price prediction](https://github.com/prashantjagtap2909/Machine-Learning/blob/main/Assignments/Uber%20ride%20price%20prediction.ipynb)
 ### [Assignment 2 ]()
 ### [Assignment 3]()
+### [Assignment 4]()
